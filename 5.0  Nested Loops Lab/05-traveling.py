@@ -12,6 +12,6 @@ while destination != 'End':
     destination = input()
 
 
-  #--------------------------------------------------(2)---------------- TODO 8-test fail
+#--------------------------------------------------(2)---------------- TODO 8-test fail
 
 [print(f'Going to {x}!') for x in iter(input, 'End') if x.isalpha()]
